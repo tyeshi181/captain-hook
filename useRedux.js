@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useRedux } from "use-redux";
 
-export const Counter = () => {
+const Counter = () => {
   const [state, dispatch] = useRedux();
 
   useEffect(() => {
