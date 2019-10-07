@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "use-redux": "^2.2.1"
+  }
+}
